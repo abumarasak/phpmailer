@@ -1,0 +1,44 @@
+# Ignore the .env file containing sensitive information
+.env
+
+# Ignore Composer's vendor directory
+
+/vendor/
+
+# Ignore Composer's lock file
+
+composer.lock
+
+# Ignore system-specific files
+
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor specific files
+
+.idea/
+*.vscode/
+
+# Ignore log files
+
+*.log
+
+# Ignore cache files
+
+/cache/
+
+# Ignore temporary files
+
+*.tmp
+*.swp
+
+# Ignore build artifacts
+
+/build/
+
+# Ignore other unnecessary files
+
+node_modules/
+*.bak
+*.old
+

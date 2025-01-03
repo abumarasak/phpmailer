@@ -8,6 +8,7 @@
 # Ignore Composer's lock file
 
 composer.lock
+composer.json
 
 # Ignore system-specific files
 
